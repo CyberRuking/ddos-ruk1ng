@@ -77,7 +77,7 @@ def usage():
 	print (''' \033[92m	DDosy By ruk1ng
 	It is the end user's responsibility to obey all applicable laws.
 	It is just for server testing script. Your ip is visible. \n
-	usage : python3 ddosy.py [-s] [-p] [-t]
+	usage : python3 ddosruk1ng.py [-s] [-p] [-t]
 	-h : help
 	-s : server ip
 	-p : port default 80
