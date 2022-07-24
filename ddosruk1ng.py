@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 # python 3.3.2+ DDosy
-# by Sanix darker
+# by ruking
 # only for legal purpose
 
 from queue import Queue
