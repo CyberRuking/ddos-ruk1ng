@@ -7,7 +7,7 @@ git clone https://github.com/CyberRuking/ddos-ruk1ng
 cd ddos-ruk1ng
 
 # Example
-python3 ddosy.py -s target -t 300
+python3 ddosruk1ng.py -s target -t 300
 ```
 
 ### Usage
