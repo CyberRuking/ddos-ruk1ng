@@ -12,7 +12,7 @@ python3 ddosy.py -s target -t 300
 
 ### Usage
 ```shell
-usage : python3 ddosy.py [-s] [-p] [-t]
+usage : python3 ddosruk1ng.py [-s] [-p] [-t]
 -h : help
 -s : server ip
 -p : port default 80
