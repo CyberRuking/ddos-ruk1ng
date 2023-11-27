@@ -6,6 +6,8 @@ git clone https://github.com/CyberRuking/ddos-ruk1ng
 
 cd ddos-ruk1ng
 
+chmod +x ddosruk1ng.py
+
 # Example
 python3 ddosruk1ng.py -s target -t 300
 ```
